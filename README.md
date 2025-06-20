@@ -1,8 +1,10 @@
  ## PROJECT LIVE LINK : https://project-careplus.vercel.app/
-📖 Description
+## Description
+
 CarePulse is an intuitive and user-friendly appointment booking web application...
 
-🔥 Features
+## Features
+
 📤 Upload / Share / Manage Files.
 
 🔐 Secure Authentication  .
@@ -13,14 +15,23 @@ CarePulse is an intuitive and user-friendly appointment booking web application.
 
 ☁️ Cloud Integration.
 
-🛠 Tech Stack
-Next.js
-TypeScript
-Tailwind CSS
-AppWrite
-Twilio
+## Tech Stack
 
-🧠 What I Learned
-Working with Appwrite, Twilio, Next.js
-Building full-stack apps with Next.js
-Optimizing UI/UX for modern web platforms
+Next.js.
+
+TypeScript.
+
+Tailwind CSS.
+
+AppWrite.
+
+Twilio.
+
+
+## What I Learned
+
+Working with Appwrite, Twilio, Next.js.
+
+Building full-stack apps with Next.js.
+
+Optimizing UI/UX for modern web platforms.
