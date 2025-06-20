@@ -3,11 +3,16 @@
 CarePulse is an intuitive and user-friendly appointment booking web application...
 
 🔥 Features
-📤 Upload / Share / Manage Files
-🔐 Secure Authentication
-📊 Real-time Insights
-📱 Responsive UI
-☁️ Cloud Integration
+📤 Upload / Share / Manage Files.
+
+🔐 Secure Authentication  .
+
+📊 Real-time Insights.
+
+📱 Responsive UI.
+
+☁️ Cloud Integration.
+
 🛠 Tech Stack
 Next.js
 TypeScript
